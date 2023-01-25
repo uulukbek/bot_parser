@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+pymorphy2
+numpy
+selenium
+lxml
+beautifulsoup4
+requests
